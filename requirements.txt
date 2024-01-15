@@ -1,2 +1,4 @@
 #requirements.txt
 snowflake-connector-python
+streamlit==1.30.0
+pyarrow==14.0.2
